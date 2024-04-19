@@ -1,28 +1,18 @@
 <h1 align="center">Hi 👋, I'm Majid</h1>
 <h3 align="center"> student programming and lifelong learner. </h3>
 
-🚀 Here are some technologies I work with:
-
-
-Languages: Python, JavaScript, Java
-
-Web Development: HTML/CSS, React, Node.js
-Databases: SQL, MongoDB
-
-Tools: Git, Docker, VS Code
-
-
-
 
 
 
 My Skills
 🚀 Here are some technologies I work with:
 
-Languages: Python, JavaScript, Java
-Web Development: HTML/CSS, React, Node.js
-Databases: SQL, MongoDB
-Tools: Git, Docker, VS Code
+Languages: Python, JavaScript, Jav Python, JavaScript, c,c++
+Databases: SQL, PostgreSQL ,mysql
+Web Development: HTML/CSS, 
+
+Tools: visual studio, VS Code,Qt Creator , Kali Linux
+
 My Projects
 
 🌱 I'm always learning and open to collaboration. 
