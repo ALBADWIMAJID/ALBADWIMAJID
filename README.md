@@ -16,7 +16,7 @@
 tools and lunguges
 <
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,qt,css,discord,github,html,linux,mongodb,mysql,vscode&perline=14" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,qt,vs code,css,discord,github,html,linux,mongodb,mysql,vscode&perline=14" />
   </a>
 </p>
 
