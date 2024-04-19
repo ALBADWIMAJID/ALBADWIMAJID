@@ -32,8 +32,8 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,aws,bootstrap,c,cpp,css,discord,docker,dynamodb,express,figma,firebase,github,html,idea,java,js,kotlin,linux,md,materialui,mongodb,mysql,nextjs,nodejs,postman,py,react,redux,tailwind,ts,vscode&perline=14" />
-    <img src="https://skillicons.dev/icons?i=git,aws,cpp,css,discord,docker,postgres,prisma,pug,dynamodb,express,figma,firebase,redis,github,html,java,js,linux,md,materialui,nginx,mongodb,mysql,nextjs,nodejs,postman,py,react,redux,tailwind,ts,vscode,kubernetes&perline=14" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,css,discord,github,html,linux,mongodb,mysql,vscode&perline=14" />
+    <img src="https://skillicons.dev/icons?i=cpp,css,github,html,linux,mongodb,mysql,vscode,kubernetes&perline=14" />
   </a>
 </p>
 - 📫 How to reach me **albadwimajid755@gmail.com**
