@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm majid</h1>
 <h3 align="center">A passionate student programming</h3>
 
-- 📫 How to reach me **albadwimajid755@gmail.com**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -40,5 +40,5 @@
   <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
 </p>
 
-
+- 📫 How to reach me **albadwimajid755@gmail.com**
 
