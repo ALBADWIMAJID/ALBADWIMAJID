@@ -2,7 +2,7 @@
 <h3 align="center">A passionate student programming</h3>
 
 
-<img align="right" alt="Coding" width="300" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
+
 
   <div align=center>
 <img height="200" alt="Screenshot_2022-12-22_at_23 08 11-removebg-preview" src="https://user-images.githubusercontent.com/44261381/209237088-3bbb1512-7486-4c36-afd8-bb60077d067b.png" alt="Avatar photo of William Guerrand"
@@ -14,7 +14,7 @@
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 
-
+<img align="right" alt="Coding" width="300" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
 
 <h3 align="left">Languages and Tools:</h3>
    
