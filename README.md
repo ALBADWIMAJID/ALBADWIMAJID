@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Majid</h1>
-<h3 align="center"> student programming and lifelong learner.  from yemen</h3>
+<h3 align="center"> student programming and lifelong learner. </h3>
 
 🚀 Here are some technologies I work with:
 
