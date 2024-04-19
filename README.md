@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm majid</h1>
 <h3 align="center">A passionate student programming</h3>
 
-
+## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
