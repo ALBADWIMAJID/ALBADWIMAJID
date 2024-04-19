@@ -44,3 +44,4 @@
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=timcreative&show_icons=true&include_all_commits=true&theme=cobalt&hide_border=true" alt="My github stats" /> 
 
+$ git checkout -b <new-branch-name>
