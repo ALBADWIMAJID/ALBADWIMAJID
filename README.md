@@ -14,24 +14,6 @@
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 
-/**
- * Represents me.
- * @constructor
- * @param {string} city - Paris, France.
- * @param {string} languagues - English, French.
- * @param {string} jobTitle - Full Stack Developer.
- * @param {string} specialization - Building full-fledged web applications.
- * @param {string} interests - AI, writing & problem-solving.
- * @param {string} hobbies - Climbing, reading, triathlons & playing music.
- * @param {string} education - BSc CompSci, Lancaster University.
- * @param {string} approachable - Yes, to collaborate on exciting projects, don't hesitate to react out.
- * @param {string} stength - Resolute.
- * @param {string} weakness - Shyness.
- * @param {Date} birthday - 14th of December 2000.
- * @throws {Punch} To any and all bugs.
- * @returns {Object} Austinae.
- */
-```
 <img align="right" alt="Coding" width="300" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
 
 <h3 align="left">Languages and Tools:</h3>
