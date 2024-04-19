@@ -3,10 +3,14 @@
 
 🚀 Here are some technologies I work with:
 
+
 Languages: Python, JavaScript, Java
+
 Web Development: HTML/CSS, React, Node.js
 Databases: SQL, MongoDB
+
 Tools: Git, Docker, VS Code
+
 
 
 
