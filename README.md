@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm majid</h1>
 <h3 align="center">A passionate student programming</h3>
 <details>
-<summary>Open profile</summary>
+
 
 [comment]: <> (View Counter)
 <br>
