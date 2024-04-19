@@ -7,13 +7,10 @@ My Skills
 
 Languages: Python, JavaScript,C,C++,
 Web Development: HTML/CSS,
-Databases: SQL, MongoDB , pgAdmin
+Databases: SQL, PostgreSQL , pgAdmin
 🌟Tools: Kali linux ,Mysql , visual studio, VS Code,Qt creatot
-My Projects
 
-Let's Connect
-🌱 I'm always learning and open to collaboration. Let's connect and build amazing things together!
-
+🌱 I'm always learning and open to collaboration. 
 Get in Touch
 📫 Feel free to reach out:
 
