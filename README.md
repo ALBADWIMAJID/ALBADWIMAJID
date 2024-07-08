@@ -17,7 +17,7 @@
 
   <h2>About me</h2>
   <p>
-    I am passionate about programming and AI, love playing chess, and enjoy playing the guitar. I'm also a long-distance athlete and a thrill seeker.
+    I am passionate about programming and AI, love playing chess, and enjoy playing the guitar.
   </p>
 
   <h2>Tools and Languages</h2>
