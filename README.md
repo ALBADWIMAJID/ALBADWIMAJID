@@ -29,8 +29,6 @@
 
   <p>📫 How to reach me: <a href="mailto:albadwimajid755@gmail.com">albadwimajid755@gmail.com</a></p>
 
-  <footer>
-    <p><a href="https://github.com/7oSkaaa">GitHub Profile</a></p>
-  </footer>
+
 </body>
 </html>
