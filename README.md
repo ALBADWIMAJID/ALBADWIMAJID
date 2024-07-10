@@ -23,7 +23,7 @@
   <h2>Tools and Languages</h2>
   <p>
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=git,figma,js,php,python,kali,docker,c,cpp,qt,css,discord,github,html,linux,mongodb,mysql,vscode&perline=14" alt="Skills Icons">
+      <img src="https://skillicons.dev/icons?i=solr,git,figma,js,php,python,kali,docker,c,cpp,qt,css,discord,github,html,linux,mongodb,mysql,vscode&perline=14" alt="Skills Icons">
     </a>
   </p>
 
