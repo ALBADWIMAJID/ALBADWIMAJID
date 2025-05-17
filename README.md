@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="majid-banner.png.png" alt="Majid GitHub Banner" width="800" />
+  <img src="majid-banner.png" alt="Majid GitHub Banner" width="800" />
 </p>
 
 <img src="https://cdn.jsdelivr.net/gh/eryajf/tu@main/img/image_20240420_214408.gif" width="1000"  height="3">
