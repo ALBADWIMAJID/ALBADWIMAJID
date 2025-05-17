@@ -10,7 +10,7 @@
   <a href="https://github.com/albadwimajid">
     <img src="https://img.shields.io/github/followers/albadwimajid?label=Follow&style=social" />
   </a>
-  <a href="https://t.me/MajidDev">
+  <a href="https://t.me/snip00x">
     <img src="https://img.shields.io/badge/Telegram-MajidDev-blue?logo=telegram&style=flat-square" />
   </a>
   <a href="mailto:albadwimajid755@gmail.com">
@@ -24,9 +24,10 @@
   <img src="https://komarev.com/ghpvc/?username=albadwimajid&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
-- 👨‍💻 Check out my work: [https://github.com/albadwimajid](https://github.com/albadwimajid)  
-- 💬 Ask me about **Full-Stack Development, Chatbots, and AI Tools**  
-- 📫 How to reach me **albadwimajid755@gmail.com**
+- 🌐 Visit my website: [https://albadwimajid.github.io/my-portfolio-/](https://albadwimajid.github.io/my-portfolio-/)
+- 👨‍💻 Check out my work: [https://github.com/albadwimajid](https://github.com/albadwimajid)
+- 💬 Ask me about **Full-Stack Development, Chatbots, and AI Tools**
+- 📫 How to reach me: **albadwimajid755@gmail.com**
 
 ---
 
