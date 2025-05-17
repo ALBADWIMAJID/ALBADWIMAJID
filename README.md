@@ -60,11 +60,11 @@
 ---
 ## 🤝 Connect with me:
 
-<a href="https://www.instagram.com/maged__2022?igsh=bGwwcGp0ZzJuMWE4&utm_source=qr"> 
+<a href="https://www.instagram.com/maged__2022?igsh=bGwwcGp0ZzJuMWE4&utm_source=qr">
   <img align="left" src="https://raw.githubusercontent.com/deepajarout/deepajarout/main/5296765_camera_instagram_instagram%20logo_icon.png" alt="Instagram" width="35px"/>
 </a>
 
-<a href="mailto:albadwimajid755@gmail.com">
+<a href="mailto:dj.jarout@gmail.com">
   <img align="left" src="https://raw.githubusercontent.com/deepajarout/deepajarout/main/2993691_brand_brands_gmail_logo_logos_icon.png" alt="Gmail" width="35px"/>
 </a>
 <a href="https://t.me/snip00x">
