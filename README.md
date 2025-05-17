@@ -10,6 +10,7 @@
   A Full-Stack Developer & AI Explorer from the Middle East.<br>
   I build smart bots, dashboards, and powerful web platforms using modern tech.
 </h3>
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 <p align="center">
   <a href="https://github.com/albadwimajid">
