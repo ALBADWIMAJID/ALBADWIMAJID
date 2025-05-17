@@ -2,6 +2,8 @@
   <img src="majid-banner.png.png" alt="Majid GitHub Banner" width="800" />
 </p>
 
+<img src="https://cdn.jsdelivr.net/gh/eryajf/tu@main/img/image_20240420_214408.gif" width="1000"  height="3">
+</div><br>
 <h1 align="center">Hey Everyone 👋, I'm Majid Al-Badwi</h1>
 
 <h3 align="center">
