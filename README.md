@@ -60,7 +60,7 @@
 ---
 ## 🤝 Connect with me:
 
-<a href="https://www.instagram.com/maged__2022?igsh=bGwwcGp0ZzJuMWE4&utm_source=qr">
+<a href="https://www.instagram.com/majiddev_/">
   <img align="left" src="https://raw.githubusercontent.com/deepajarout/deepajarout/main/5296765_camera_instagram_instagram%20logo_icon.png" alt="Instagram" width="35px"/>
 </a>
 
