@@ -1,68 +1,79 @@
-# 👋 Hello, I'm Majid
+<h1 align="center">Hey Everyone 👋, I'm Majid Al-Badwi</h1>
+
+<div align="center">
+  <img src="banner_github.png" alt="Majid GitHub Banner">
+</div>
+
+<h3 align="center">A Full-Stack Developer & AI Explorer from the Middle East. I build smart bots, dashboards, and powerful web platforms using modern tech.</h3>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/44261381/209237088-3bbb1512-7486-4c36-afd8-bb60077d067b.png" width="150" alt="Majid Avatar" />
-</p>
-
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=300&color=3C3C3C&center=true&vCenter=true&width=600&lines=Majid+Al-Badwi+%7C+Full-Stack+Developer;AI+Explorer+%7C+Open+Source+Contributor;Building+Useful+Projects+with+Code+%F0%9F%94%A5" alt="Typing SVG" />
+  <a href="https://github.com/albadwimajid">
+    <img src="https://img.shields.io/github/followers/albadwimajid?label=Follow&style=social" />
+  </a>
+  <a href="https://t.me/MajidDev">
+    <img src="https://img.shields.io/badge/Telegram-MajidDev-blue?logo=telegram&style=flat-square" />
+  </a>
+  <a href="mailto:albadwimajid755@gmail.com">
+    <img src="https://img.shields.io/badge/Email-albadwimajid755%40gmail.com-red?logo=gmail&style=flat-square" />
   </a>
 </p>
 
----
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
-## 🧑‍💻 About Me
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=albadwimajid&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
 
-I'm Majid — a self-taught developer and student passionate about building practical solutions using modern technologies.
-
-💡 I started from scratch and grew my skills through real projects, from automating workflows and building web platforms to developing AI-driven bots and dashboards.
-
-- 🔭 I'm currently working on AI-based chatbots & full-stack dashboards
-- 🌱 I’m learning cloud deployment, ChromaDB, and advanced Next.js practices
-- 💬 Ask me about PHP, Python, JavaScript, or full-stack development
-- ⚡ Fun facts: I love chess ♟️, play guitar 🎸, and enjoy debugging Linux systems
+- 👨‍💻 Check out my work: [https://github.com/albadwimajid](https://github.com/albadwimajid)  
+- 💬 Ask me about **Full-Stack Development, Chatbots, and AI Tools**  
+- 📫 How to reach me **albadwimajid755@gmail.com**
 
 ---
 
-## 🚀 My Featured Projects
-
-- 🔹 **Telegram AI Bot** — a smart bot using RAG + OpenAI + ChromaDB for question answering
-- 🔹 **E-commerce Platform** — full-stack website in PHP with user auth, cart, and order system
-- 🔹 **Data Visualization Tool** — Streamlit app for ML predictions and analytics
-- 🔹 **Network Simulator (Cisco)** — networking projects built using Packet Tracer
-
----
-
-## 🛠 Skills & Technologies
-
-**Languages:**  
-`PHP` `Python` `JavaScript` `C/C++` `HTML/CSS` `Bash`
-
-**Frameworks & Tools:**  
-`Next.js` `Tailwind CSS` `React` `Qt` `Streamlit` `Botpress`
-
-**Databases:**  
-`MySQL` `MongoDB` `ChromaDB`
-
-**Platforms & Dev Tools:**  
-`Linux` `Docker` `Git/GitHub` `WSL` `VS Code` `Figma` `Canva`
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=albadwimajid&show_icons=true&theme=default" alt="Majid's GitHub Stats" />
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+  <a href="https://t.me/MajidDev" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" alt="Telegram" height="30" width="30" /></a>
+  <a href="mailto:albadwimajid755@gmail.com" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Gmail" height="30" width="30" /></a>
 </p>
 
 ---
 
-## 📫 How to Reach Me
-
-- Email: [albadwimajid755@gmail.com](mailto:albadwimajid755@gmail.com)
-- Telegram: [@MajidDev](https://t.me/MajidDev)
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-line.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" height="40"/>
+</p>
 
 ---
 
-> “Stay curious. Stay creative. Keep shipping.”
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=albadwimajid&show_icons=true&locale=en&layout=compact&theme=vue&hide_border=true" alt="Top Langs" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=albadwimajid&show_icons=true&locale=en&theme=vue&hide_border=true" alt="GitHub Stats" /></p>
+
+---
+
+### 🔥 GitHub Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/albadwimajid/albadwimajid/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/albadwimajid/albadwimajid/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/albadwimajid/albadwimajid/output/github-snake.svg" />
+</picture>
+
+---
+
+### 👨‍💼 About Me & 🤝 Open to Collaborations
+
+🎤 Available for **guest lectures / mentoring / automation projects**  
+🤝 Open to **bot projects / AI tools / dashboards / internships**  
+📧 Let's connect: [albadwimajid755@gmail.com](mailto:albadwimajid755@gmail.com)
+
+> *"Empowering systems with smart automation — one commit at a time."*
