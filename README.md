@@ -1,6 +1,8 @@
+<p align="center">
+  <img src="majid-banner.png.png" alt="Majid GitHub Banner" width="800" />
+</p>
+
 <h1 align="center">Hey Everyone 👋, I'm Majid Al-Badwi</h1>
-
-
 
 <h3 align="center">
   A Full-Stack Developer & AI Explorer from the Middle East.<br>
@@ -30,10 +32,27 @@
 
 ### 📌 About Me
 
-- 🌐 Visit my website: [albadwimajid.github.io/my-portfolio-/](https://albadwimajid.github.io/my-portfolio-/)
-- 👨‍💻 Check out my work: [github.com/albadwimajid](https://github.com/albadwimajid)
+- 🌐 Website: [albadwimajid.github.io/my-portfolio-/](https://albadwimajid.github.io/my-portfolio-/)
+- 👨‍💻 GitHub: [github.com/albadwimajid](https://github.com/albadwimajid)
 - 💬 Ask me about **Full-Stack Development, Chatbots, and AI Tools**
-- 📫 How to reach me: **albadwimajid755@gmail.com**
+- 📫 Email: [albadwimajid755@gmail.com](mailto:albadwimajid755@gmail.com)
+
+---
+
+### 🚧 Currently Working On
+
+- 🤖 AI-powered Telegram bot using OpenAI + ChromaDB
+- 🛒 Full-stack e-commerce platform (PHP + Tailwind)
+- 📈 Streamlit dashboard for machine learning analytics
+
+---
+
+### 🏆 Highlights
+
+- ✅ Built 15+ real-world projects (bots, dashboards, systems)
+- 🧠 Developed AI chatbot with RAG pipeline + ChromaDB
+- 🌐 Designed and deployed a full personal portfolio
+- 👨‍🏫 Helped peers with Git, MySQL, and full-stack basics
 
 ---
 
@@ -49,31 +68,50 @@
 
 ---
 
-### 🧰 Languages and Tools
+---
+
+### 👨‍💻 Programming Languages
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-line.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40"/>
-  <img src="https://img.icons8.com/color/48/canva.png" width="40"/>
-  <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/null/external-postman-is-the-only-complete-api-development-environment-logo-color-tal-revivo.png" width="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/41/Cisco_Packet_Tracer_Logo.png" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" title="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="45" title="PHP"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" title="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="45" title="TypeScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" title="HTML5"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" title="CSS3"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="45" title="C"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="45" title="C++"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="45" title="Bash"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45" title="Java"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="45" title="R"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="45" title="SQLite"/>
 </p>
+
+---
+
+### 🛠️ Tools & Technologies
+
+<p align="center">
+  <!-- First Row -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45" title="React"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-line.svg" width="45" title="Next.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg" width="45" title="Qt"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45" title="Docker"/>
+
+  <!-- Second Row -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" title="MySQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="45" title="MongoDB"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" title="Git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" title="GitHub"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="45" title="Linux"/>
+
+  <!-- Third Row -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45" title="VS Code"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="45" title="Figma"/>
+  <img src="https://img.icons8.com/color/48/canva.png" width="45" title="Canva"/>
+  <img src="https://streamlit.io/images/brand/streamlit-logo-secondary-colormark-lighttext.svg" width="90" title="Streamlit"/>
+</p>
+
 
 ---
 
