@@ -1,4 +1,4 @@
-# 👋 Hey there, I'm Majid
+# 👋 Hello, I'm Majid
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/44261381/209237088-3bbb1512-7486-4c36-afd8-bb60077d067b.png" width="150" alt="Majid Avatar" />
@@ -6,73 +6,63 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=300&color=3C3C3C&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Majid+👨‍💻;AI+Enthusiast+%7C+Web+Developer+%7C+Student;Lover+of+Learning+%7C+Tech+Explorer+%F0%9F%94%8E;Open+Source+Contributor+%7C+Dreamer+%E2%9C%A8" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=300&color=3C3C3C&center=true&vCenter=true&width=600&lines=Majid+Al-Badwi+%7C+Full-Stack+Developer;AI+Explorer+%7C+Open+Source+Contributor;Building+Useful+Projects+with+Code+%F0%9F%94%A5" alt="Typing SVG" />
   </a>
 </p>
 
 ---
 
-## 🧠 About Me
+## 🧑‍💻 About Me
 
-I'm Majid, a passionate self-driven developer who started learning from scratch and kept pushing forward with real-world projects.
+I'm Majid — a self-taught developer and student passionate about building practical solutions using modern technologies.
 
-From building web apps in **PHP**, **JavaScript**, and **Tailwind**, to developing smart **AI-powered bots** and full-stack platforms using **Next.js** and **Python** — I never stop learning and building.
+💡 I started from scratch and grew my skills through real projects, from automating workflows and building web platforms to developing AI-driven bots and dashboards.
 
-### 🔍 What I focus on:
-- 💡 Problem-solving through **code automation**, **AI integration**, and clean **UI/UX** design
-- 💻 Web development (Full-stack with PHP, JS, Python, Tailwind, MySQL, MongoDB)
-- 🧠 AI + ML: building smart apps & bots using OpenAI tools and vector databases like ChromaDB
-- 🌍 API integrations, server-side scripting, and cloud deployment
-
-I’ve also worked with:
-- ✅ Linux & Shell (WSL, Kali)
-- ✅ Git & GitHub (clean workflows & team collaboration)
-- ✅ Visual tools like Figma, Canva, and Prototyping
-
-Always experimenting, always shipping. Let’s build something amazing.
+- 🔭 I'm currently working on AI-based chatbots & full-stack dashboards
+- 🌱 I’m learning cloud deployment, ChromaDB, and advanced Next.js practices
+- 💬 Ask me about PHP, Python, JavaScript, or full-stack development
+- ⚡ Fun facts: I love chess ♟️, play guitar 🎸, and enjoy debugging Linux systems
 
 ---
 
-## ⚒️ Skills Summary
+## 🚀 My Featured Projects
 
-**Languages & Frameworks**  
-- PHP, Python, JavaScript, HTML, CSS, C/C++, Qt  
-- Next.js, React, Tailwind CSS
-
-**AI & ML**  
-- Chatbots with OpenAI (RAG, embeddings)  
-- ML models: KNN, PCA, Clustering (DBSCAN, OPTICS)
-
-**Databases**  
-- MySQL, MongoDB, ChromaDB
-
-**Tools & Platforms**  
-- Git, GitHub, Docker, VS Code  
-- Figma, Canva, Streamlit, Botpress
-
-**OS & Terminal**  
-- Linux (Ubuntu, Kali), WSL  
-- Bash scripting and system automation
+- 🔹 **Telegram AI Bot** — a smart bot using RAG + OpenAI + ChromaDB for question answering
+- 🔹 **E-commerce Platform** — full-stack website in PHP with user auth, cart, and order system
+- 🔹 **Data Visualization Tool** — Streamlit app for ML predictions and analytics
+- 🔹 **Network Simulator (Cisco)** — networking projects built using Packet Tracer
 
 ---
 
-## 🛠️ Tools I Use
+## 🛠 Skills & Technologies
+
+**Languages:**  
+`PHP` `Python` `JavaScript` `C/C++` `HTML/CSS` `Bash`
+
+**Frameworks & Tools:**  
+`Next.js` `Tailwind CSS` `React` `Qt` `Streamlit` `Botpress`
+
+**Databases:**  
+`MySQL` `MongoDB` `ChromaDB`
+
+**Platforms & Dev Tools:**  
+`Linux` `Docker` `Git/GitHub` `WSL` `VS Code` `Figma` `Canva`
+
+---
+
+## 📈 GitHub Stats
 
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,js,php,cpp,c,html,css,git,github,mysql,mongodb,linux,vscode,figma,docker,qt,discord,kali&perline=9" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=albadwimajid&show_icons=true&theme=default" alt="Majid's GitHub Stats" />
 </p>
 
 ---
 
-## 📫 Contact Me
+## 📫 How to Reach Me
 
-- 📧 Email: [albadwimajid755@gmail.com](mailto:albadwimajid755@gmail.com)
-- 💬 Telegram: [@MajidDev](https://t.me/MajidDev)
-- 🌐 Portfolio: *coming soon...*
+- Email: [albadwimajid755@gmail.com](mailto:albadwimajid755@gmail.com)
+- Telegram: [@MajidDev](https://t.me/MajidDev)
 
 ---
 
-> _"Code is like humor. When you have to explain it, it’s bad."_  
-> — *Cory House*
+> “Stay curious. Stay creative. Keep shipping.”
