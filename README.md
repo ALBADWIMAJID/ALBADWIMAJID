@@ -1,6 +1,6 @@
 
 </div><br>
-<h1 align="center">Hey Everyone 👋, I'm Majid Al-Badwi</h1>
+<h1 align="center">Hey Everyone 👋, I'm Majid </h1>
 <img src="https://cdn.jsdelivr.net/gh/eryajf/tu@main/img/image_20240420_214408.gif" width="1000"  height="3">
 
 <h3 align="center">
